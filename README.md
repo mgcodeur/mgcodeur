@@ -1,5 +1,3 @@
 <div align="center">
-    <img width="80" src="./assets/mgcodeur-logo.png"/>
+    <img src="assets/mgcodeur-banner.PNG"/>
 </div>
-<p align="center">Hello!!!</p>
-<p align="center">Welcome to my profile</p>
