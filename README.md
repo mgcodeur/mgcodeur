@@ -1,3 +1,3 @@
 <div align="center">
-    <img src="assets/mgcodeur-banner.PNG"/>
+    <img width="100%" src="assets/mgcodeur-banner.PNG"/>
 </div>
