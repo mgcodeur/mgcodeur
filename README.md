@@ -4,10 +4,10 @@
 <div>
     <div>
         <h2 align="center">Frontend Skills</h2>
-        <img src="assets/Technologies-frontend.png" alt="">
+        <img align="center" src="assets/Technologies-frontend.png" alt="">
     </div>
     <div>
         <h2 align="center">Backend Skills</h2>
-        <img src="assets/Technologies-backend.png" alt="">
+        <img align="center" src="assets/Technologies-backend.png" alt="">
     </div>
 </div>
