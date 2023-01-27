@@ -1,5 +1,5 @@
 # 💫 About Me:
-<div align="center">
+<div>
     My name is Rapha,  I'm from Madagascar (🇲🇬). I'm selftaught and curious, I love programming.
 </div>
 
