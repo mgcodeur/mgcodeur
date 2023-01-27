@@ -1,3 +1,7 @@
+<div align="center">
+    <img width="100%" src="assets/animal-coder.gif"/>
+</div>
+
 # 💫 About Me:
 <div>
     My name is Rapha,  I'm from Madagascar (🇲🇬). I'm selftaught and curious, I love programming.
