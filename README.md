@@ -1,11 +1,10 @@
-
-<div align="center">
-    <img width="100%" src="assets/banner.png"/>
-</div>
-
 # 💫 About Me:
 <div align="center">
     My name is Rapha,  I'm from Madagascar (🇲🇬). I'm selftaught and curious, I love programming.
+</div>
+
+<div align="center">
+    <img width="100%" src="assets/banner.png"/>
 </div>
 
 ## 🌐 Socials:
