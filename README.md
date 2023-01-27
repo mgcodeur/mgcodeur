@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="100%" src="assets/animal-coder.gif"/>
+    <img height="100px" src="assets/animal-coder.gif"/>
 </div>
 
 # 💫 About Me:
