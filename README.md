@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/kitsune.gif" heighr="100px" alt="kitsune gif">
+    <img src="assets/kitsune.gif" height="100px" alt="kitsune gif">
 </div>
 
 # 💫 About Me:
