@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="assets/kitsune.gif" height="100px" alt="kitsune gif">
-</div>
-
 # 💫 About Me:
 <div>
     My name is Rapha,  I'm from Madagascar (🇲🇬). I'm selftaught and curious, I love programming.
