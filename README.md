@@ -2,15 +2,7 @@
     <img width="100%" src="assets/banner.png"/>
 </div>
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mgcodeur&theme=city_light&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mgcodeur&theme=city_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mgcodeur&theme=city_light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=mgcodeur)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
+# 🔥 GitHub Stats:
 <table>
     <tr>
         <td>
@@ -23,6 +15,14 @@
         </td>
     </tr>
 </table>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mgcodeur&theme=city_light&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mgcodeur&theme=city_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mgcodeur&theme=city_light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=mgcodeur)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mgcodeur) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mgcodeur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mgcodeur) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mgcodeur) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCcw26W6VqidfRYxKIO670zA) 
