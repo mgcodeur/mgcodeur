@@ -2,7 +2,7 @@
     <img src="assets/goma-cat.gif"/>
 </div>
 
-# 🔥 Skills:
+## 🔥 My skills:
 <table>
     <tr>
         <td>
