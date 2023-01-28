@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="100%" src="assets/banner.png"/>
+    <img src="assets/goma-cat.gif"/>
 </div>
 
 # 🔥 Skills:
