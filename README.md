@@ -5,7 +5,6 @@
 <h1 align="center">Hi 👋, I'm Rapha</h1>
 <h3 align="center">My name is Rapha, 24 year old, I'm from Madagascar. I love programming 💖.</h3>
 
-## 🔥 My skills:
 <table>
     <tr>
         <td>
@@ -19,7 +18,6 @@
     </tr>
 </table>
 
-## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mgcodeur) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mgcodeur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mgcodeur) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mgcodeur) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCcw26W6VqidfRYxKIO670zA) 
 
 ## 💰 You can help me by Donating
