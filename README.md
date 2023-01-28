@@ -21,5 +21,5 @@
 
 ## 💰 You can help me by Donating
 <a href="https://buymeacoffee.com/mgcodeur">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="80px"/>
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="44px"/>
 <a>
