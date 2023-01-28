@@ -2,7 +2,7 @@
     <img width="100%" src="assets/banner.png"/>
 </div>
 
-# 🔥 GitHub Stats:
+# 🔥 Skills:
 <table>
     <tr>
         <td>
