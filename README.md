@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Rapha</h1>
-<h3 align="center">My name is Rapha, 24 year old, I'm from Madagascar. I love programming 💖.</h3>
+<h3 align="center">My name is Rapha, 24 year old, I love programming 💖.</h3>
 
 <table>
     <tr>
