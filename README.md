@@ -18,7 +18,7 @@
     </tr>
 </table>
 
-<table>
+<table border="0">
     <tr>
         <td>
             <img src="https://github-readme-stats.vercel.app/api?username=mgcodeur&theme=city_light&hide_border=false&include_all_commits=false&count_private=false" alt="mgcodeur-github-stats">
