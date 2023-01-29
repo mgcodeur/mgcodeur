@@ -18,16 +18,12 @@
     </tr>
 </table>
 
-<table style="border: 0">
-    <tr style="border: 0">
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=mgcodeur&theme=city_light&hide_border=false&include_all_commits=false&count_private=false" alt="mgcodeur-github-stats">
-        </td>
-        <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgcodeur&theme=city_light&hide_border=false" alt="mgcodeur-streak">
-        </td>
-    </tr>
-</table>
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=mgcodeur&theme=city_light&hide_border=false&include_all_commits=false&count_private=false" alt="mgcodeur-github-stats" width="50%"/>
+    
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgcodeur&theme=city_light&hide_border=false" alt="mgcodeur-streak" width="50%" />
+    
+</div>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mgcodeur) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mgcodeur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mgcodeur) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mgcodeur)
 
