@@ -23,7 +23,7 @@
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=mgcodeur&theme=city_light&hide_border=false&include_all_commits=false&count_private=false" alt="mgcodeur-github-stats" width="49%"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgcodeur&theme=city_light&hide_border=false" alt="mgcodeur-streak" width="49%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgcodeur&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="mgcodeur-most-use-language" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgcodeur&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="mgcodeur-most-use-language"/>
 </div>
 
 ### 💰 You can help me by Donating
