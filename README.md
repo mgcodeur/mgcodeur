@@ -7,6 +7,9 @@
 
 <img src="https://raw.githubusercontent.com/mgcodeur/mgcodeur/output/github-contribution-grid-snake.gif" alt="mgcodeur contribution" width="100%"/>
 
+<br/>
+<br/>
+
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div>
@@ -15,6 +18,7 @@
 
 <br/>
 <br/>
+
 <h2 align="center">Skills 🔥</h2>
 <table>
     <tr>
@@ -29,15 +33,20 @@
     </tr>
 </table>
 
+<br/>
+<br/>
+
 <h2 align="center">Github stats 📈</h2>
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=mgcodeur&theme=city_light&hide_border=false&include_all_commits=false&count_private=false" alt="mgcodeur-github-stats"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgcodeur&theme=city_light&hide_border=false" alt="mgcodeur-streak"/>
 </div>
 
+<br/>
+<br/>
+
 <h2 align="center">💰 You can help me by Donating<h2>
     
-
 <div align="center">
     <a href="https://buymeacoffee.com/mgcodeur">
         <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="40px"/>
@@ -45,11 +54,9 @@
 </div>
         
 <br/>
-        
-<div align="center">profile views counter</div>
-        
 <br/>
-
+        
+<h2 align="center">profile views counter</h2>
 <div align="center">
     <img src="https://profile-counter.glitch.me/mgcodeur/count.svg" width="100%"/>
 </div>
