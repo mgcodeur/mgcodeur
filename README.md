@@ -36,8 +36,8 @@
     <a>
 </div>
         
+<div align="center">Profile views</div>
 <div align="center">
-    <span>Profile views<span>
     <img src="https://profile-counter.glitch.me/mgcodeur/count.svg"/>
 </div>
 
