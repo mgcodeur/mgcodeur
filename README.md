@@ -35,6 +35,7 @@
 <br/>
 
 <h2 align="center">Github stats 📈</h2>
+
 <div align="center>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgcodeur&theme=city_light&hide_border=false" alt="mgcodeur-streak"/>
 </div>
