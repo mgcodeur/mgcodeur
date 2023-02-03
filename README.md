@@ -8,7 +8,6 @@
 <img src="https://raw.githubusercontent.com/mgcodeur/mgcodeur/output/github-contribution-grid-snake.gif" alt="mgcodeur contribution" width="100%"/>
 
 <br/>
-<br/>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
