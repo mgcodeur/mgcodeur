@@ -33,14 +33,6 @@
 
 <br/>
 
-<h2 align="center">Github stats 📈</h2>
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=mgcodeur&theme=city_light&hide_border=false&include_all_commits=false&count_private=false" alt="mgcodeur-github-stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgcodeur&theme=city_light&hide_border=false" alt="mgcodeur-streak"/>
-</div>
-
-<br/>
-
 <h2 align="center">💰 You can help me by Donating<h2>
     
 <div align="center">
