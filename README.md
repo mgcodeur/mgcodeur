@@ -2,6 +2,9 @@
     <img src="assets/goma-cat.gif" height="85px"/>
 </div>
 
+<br/>
+<br/>
+
 <h1 align="center">Hi 👋, I'm Rapha</h1>
 <h2 align="center">My name is Rapha, 24 year old, I love programming 💖.</h2>
 
