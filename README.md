@@ -2,6 +2,10 @@
     <img src="assets/goma-cat.gif"/>
 </div>
 
+<div align="center">
+    <img src=""/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Rapha</h1>
 <h3 align="center">My name is Rapha, 24 year old, I love programming 💖.</h3>
 
@@ -31,4 +35,10 @@
         <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="40px"/>
     <a>
 </div>
+        
+<div align="center">
+    <span>Profile views<span>
+    <img src="[https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black](https://profile-counter.glitch.me/mgcodeur/count.svg)"/>
+</div>
+
 
