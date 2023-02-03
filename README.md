@@ -5,9 +5,11 @@
 <h1 align="center">Hi 👋, I'm Rapha</h1>
 <h3 align="center">My name is Rapha, 24 year old, I love programming 💖.</h3>
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/mgcodeur/mgcodeur/output/github-contribution-grid-snake.gif" alt="mgcodeur contribution"/>
+<div>
+    <img src="https://raw.githubusercontent.com/mgcodeur/mgcodeur/output/github-contribution-grid-snake.gif" alt="mgcodeur contribution" width="100%"/>
 </div>
+
+<br/>
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 
