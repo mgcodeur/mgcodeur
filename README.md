@@ -40,7 +40,7 @@
         
 <div align="center">Profile views</div>
 <div align="center">
-    <img src="https://profile-counter.glitch.me/mgcodeur/count.svg"/>
+    <img src="https://profile-counter.glitch.me/mgcodeur/count.svg" width="100%"/>
 </div>
 
 
