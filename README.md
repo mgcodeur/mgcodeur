@@ -23,7 +23,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgcodeur&theme=city_light&hide_border=false" alt="mgcodeur-streak"/>
 </div>
 
-### 💰 You can help me by Donating
+<h3 align="center">💰 You can help me by Donating<h3>
 <a href="https://buymeacoffee.com/mgcodeur">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="40px"/>
 <a>
