@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <img src=""/>
+    <img src="https://raw.githubusercontent.com/mgcodeur/mgcodeur/output/github-contribution-grid-snake.gif" alt="mgcodeur contribution"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Rapha</h1>
