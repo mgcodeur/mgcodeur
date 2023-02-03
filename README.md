@@ -24,6 +24,6 @@
 </div>
 
 <h3 align="center">💰 You can help me by Donating<h3>
-<a href="https://buymeacoffee.com/mgcodeur">
+<a href="https://buymeacoffee.com/mgcodeur" align="center">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="40px"/>
 <a>
