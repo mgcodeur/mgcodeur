@@ -35,10 +35,9 @@
         <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="40px"/>
     <a>
 </div>
- 
-<br/>
         
-<div align="center">Profile views</div>
+<div align="center">profile views counter</div>
+<br/>
 <div align="center">
     <img src="https://profile-counter.glitch.me/mgcodeur/count.svg" width="100%"/>
 </div>
