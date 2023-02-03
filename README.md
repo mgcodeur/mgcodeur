@@ -16,7 +16,6 @@
 </div>
 
 <br/>
-<br/>
 
 <h2 align="center">Skills 🔥</h2>
 <table>
@@ -33,7 +32,6 @@
 </table>
 
 <br/>
-<br/>
 
 <h2 align="center">Github stats 📈</h2>
 <div>
@@ -41,7 +39,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgcodeur&theme=city_light&hide_border=false" alt="mgcodeur-streak"/>
 </div>
 
-<br/>
 <br/>
 
 <h2 align="center">💰 You can help me by Donating<h2>
@@ -52,7 +49,6 @@
     <a>
 </div>
         
-<br/>
 <br/>
         
 <h2 align="center">🕒 profile views counter</h2>
