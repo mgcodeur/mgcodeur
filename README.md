@@ -11,10 +11,8 @@
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
-<div align="center>
-    <a href="#">
-        <img src="https://github-profile-trophy.vercel.app/?username=mgcodeur&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="Mgcodeur Github Trophies" width="100%"/>
-    </a>
+<div>
+    <img src="https://github-profile-trophy.vercel.app/?username=mgcodeur&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="Mgcodeur Github Trophies" width="100%"/>
 </div>
 
 <br/>
@@ -37,7 +35,7 @@
 <br/>
 
 <h2 align="center">Github stats 📈</h2>
-<div>
+<div align="center>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgcodeur&theme=city_light&hide_border=false" alt="mgcodeur-streak"/>
 </div>
 
