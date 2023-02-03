@@ -11,7 +11,11 @@
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 
-![](https://github-profile-trophy.vercel.app/?username=mgcodeur&theme=flat&no-frame=false&no-bg=true&margin-w=4)
+<hr/>
+
+<div>
+    <img src="https://github-profile-trophy.vercel.app/?username=mgcodeur&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="Mgcodeur Github Trophies"/>
+</div>
 
 <table>
     <tr>
