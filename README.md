@@ -15,7 +15,7 @@
 
 <br/>
 <br/>
-
+<h2 align="center">Skills 🔥</h2>
 <table>
     <tr>
         <td>
