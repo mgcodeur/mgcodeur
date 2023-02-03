@@ -9,6 +9,9 @@
     <img src="https://raw.githubusercontent.com/mgcodeur/mgcodeur/output/github-contribution-grid-snake.gif" alt="mgcodeur contribution"/>
 </div>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mgcodeur&theme=flat&no-frame=false&no-bg=true&margin-w=4)
+
 <table>
     <tr>
         <td>
