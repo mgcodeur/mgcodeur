@@ -3,11 +3,11 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Rapha</h1>
-<h3 align="center">My name is Rapha, 24 year old, I love programming 💖.</h3>
+<h2 align="center">My name is Rapha, 24 year old, I love programming 💖.</h2>
 
 <img src="https://raw.githubusercontent.com/mgcodeur/mgcodeur/output/github-contribution-grid-snake.gif" alt="mgcodeur contribution" width="100%"/>
 
-<h3 align="center">🏆 GitHub Trophies</h3>
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <div>
     <img src="https://github-profile-trophy.vercel.app/?username=mgcodeur&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="Mgcodeur Github Trophies" width="100%"/>
@@ -34,7 +34,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgcodeur&theme=city_light&hide_border=false" alt="mgcodeur-streak"/>
 </div>
 
-<h3 align="center">💰 You can help me by Donating<h3>
+<h2 align="center">💰 You can help me by Donating<h2>
     
 
 <div align="center">
