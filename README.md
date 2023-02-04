@@ -2,7 +2,7 @@
     <img src="assets/goma-cat.gif"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Rapha</h1>
+<h1 align="center">Hi 👋, I'm Rapha (MgCodeur)</h1>
 <h2 align="center">My name is Rapha, 24 year old, I love programming 💖.</h2>
 
 <img src="https://raw.githubusercontent.com/mgcodeur/mgcodeur/output/github-contribution-grid-snake.gif" alt="mgcodeur contribution" width="100%"/>
