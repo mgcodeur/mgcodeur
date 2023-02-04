@@ -42,13 +42,6 @@
     <a>
 </div>
         
-        
-<div align="center">
-    <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgcodeur&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-    <a>
-</div>
-        
 <br/>
 
 <h2 align="center">💰 You can help me by Donating.<h2>
