@@ -61,7 +61,7 @@
         
 <br/>
         
-<h2 align="center">🕒 Profile views counter.</h2>
+<h2 align="center">🕒 Profile views.</h2>
 <div align="center">
     <img src="https://profile-counter.glitch.me/mgcodeur/count.svg" width="100%"/>
 </div>
