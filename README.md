@@ -9,7 +9,7 @@
 
 <br/>
 
-<h3 align="center">🏆 GitHub Trophies.</h3>
+<h3>🏆 GitHub Trophies.</h3>
 
 <div>
     <img src="https://github-profile-trophy.vercel.app/?username=mgcodeur&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="Mgcodeur Github Trophies" width="100%"/>
@@ -17,7 +17,7 @@
 
 <br/>
 
-<h3 align="center">🔥 Skills.</h3>
+<h3>🔥 Skills.</h3>
 <table>
     <tr>
         <td>
@@ -34,7 +34,7 @@
 
 <br/>
 
-<h3 align="center">📈 Github stats.</h3>
+<h3>📈 Github stats.</h3>
 
 <div align="center">
     <a href="#">
@@ -44,7 +44,7 @@
         
 <br/>
 
-<h3 align="center">💰 You can help me by Donating.<h3>
+<h3>💰 You can help me by Donating.<h3>
     
 <div align="center">
     <a href="https://buymeacoffee.com/mgcodeur">
@@ -54,7 +54,7 @@
         
 <br/>
         
-<h3 align="center">🕒 Profile views.</h3>
+<h3>🕒 Profile views.</h3>
 <div align="center">
     <img src="https://profile-counter.glitch.me/mgcodeur/count.svg" width="100%"/>
 </div>
