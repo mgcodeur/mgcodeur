@@ -2,8 +2,8 @@
     <img src="assets/goma-cat.gif"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Rapha</h1>
-<h2 align="center">My name is Rapha, 24 year old, I love programming 💖.</h2>
+<h2 align="center">Hi 👋, I'm Rapha</h2>
+<h4 align="center">My name is Rapha, 24 year old, I love programming 💖.</h4>
 
 <img src="https://raw.githubusercontent.com/mgcodeur/mgcodeur/output/github-contribution-grid-snake.gif" alt="mgcodeur contribution" width="100%"/>
 
@@ -17,7 +17,7 @@
 
 <br/>
 
-<h2 align="center">🔥 Skills.</h2>
+<h4 align="center">🔥 Skills.</h4>
 <table>
     <tr>
         <td>
@@ -34,7 +34,7 @@
 
 <br/>
 
-<h2 align="center">📈 Github stats.</h2>
+<h4 align="center">📈 Github stats.</h4>
 
 <div align="center">
     <a href="#">
