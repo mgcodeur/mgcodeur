@@ -55,6 +55,6 @@
 <br/>
         
 <h3>🕒 Profile views.</h3>
-<div align="center">
-    <img src="https://profile-counter.glitch.me/mgcodeur/count.svg" height="80px"/>
+<div>
+    <img src="https://profile-counter.glitch.me/mgcodeur/count.svg" height="60px"/>
 </div>
