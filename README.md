@@ -21,7 +21,7 @@
 
 <div align="center">
     <a href="#">
-        <img src="https://raw.githubusercontent.com/mgcodeur/mgcodeur/master/profile-3d-contrib/profile-night-rainbow.svg"/>
+        <img src="https://raw.githubusercontent.com/mgcodeur/mgcodeur/master/profile-3d-contrib/profile-south-season-animate.svg"/>
     </a>
 </div>
        
