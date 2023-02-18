@@ -14,7 +14,7 @@
 <h3>🏆 Trophies.</h3>
 
 <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=mgcodeur&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="Mgcodeur Github Trophies" width="100%"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=mgcodeur&theme=discord&no-frame=false&no-bg=true&margin-w=4" alt="Mgcodeur Github Trophies" width="100%"/>
 </div>
 
 <h3>📈stats.</h3>
@@ -24,16 +24,13 @@
         <img src="https://raw.githubusercontent.com/mgcodeur/mgcodeur/master/profile-3d-contrib/profile-south-season-animate.svg"/>
     </a>
 </div>
-       
-<h3 align="center">💰 Donating ?<h3>
-    
-<div align="center">
+<br>
+<div>
     <a href="https://buymeacoffee.com/mgcodeur">
         <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-crimson?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/>
     </a>
 </div>
 
-<h3 align="center">🕒 Visitors.</h3>
-<div align="center">
-    <img src="https://profile-counter.glitch.me/mgcodeur/count.svg"/>
+<div>
+    <img src="https://visitcount.itsvg.in/api?id=mgcodeur&icon=0&color=1"/>
 </div>
