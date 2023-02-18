@@ -29,7 +29,7 @@
     
 <div align="center">
     <a href="https://buymeacoffee.com/mgcodeur">
-        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-crimson?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" height="50px"/>
+        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-crimson?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/>
     </a>
 </div>
 
