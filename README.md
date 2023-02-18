@@ -18,18 +18,7 @@
 <br/>
 
 <h3>🔥 Skills.</h3>
-<table>
-    <tr>
-        <td>
-            <h2 align="center">Frontend Skills</h2>
-            <img src="assets/Technologies-frontend.png" alt="mgcodeur-skills">
-        </td>
-        <td>
-            <h2 align="center">Backend Skills</h2>
-            <img src="assets/Technologies-backend.png" alt="mgcodeur-skills">
-        </td>
-    </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=js,html,css,php,laravel,vue,adonis,wordpress,webpack,vite,redis,symfony,apollo,figma,nodejs,express,mongo" alt="mgcodeur-skills"/>
 
 
 <br/>
