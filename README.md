@@ -22,6 +22,9 @@
     <a href="#">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgcodeur&theme=city_light&hide_border=false"/>
     <a>
+    <a href="#">
+        <img src="https://raw.githubusercontent.com/mgcodeur/mgcodeur/master/profile-3d-contrib/profile-south-season-animate.svg"/>
+    <a>
 </div>
         
 <h3>💰 You can help me by Donating.<h3>
