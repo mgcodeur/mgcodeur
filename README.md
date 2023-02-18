@@ -11,18 +11,18 @@
 <h3>🔥 Skills.</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,adonis,wordpress,webpack,vite,redis,symfony,apollo,figma,nodejs,express,mongo,bootstrap,git,gitlab,firebase,nuxt,postman,graphql,react,redux,next,mysql,sqlite,tailwind,postgres,stackoverflow,svelte,nginx,heroku,gatsby,flutter,docker,elixir,aws,pug,regex,xd,vercel,devto"/>
 
+<h3>🏆 Trophies.</h3>
+
+<div>
+    <img src="https://github-profile-trophy.vercel.app/?username=mgcodeur&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="Mgcodeur Github Trophies" width="100%"/>
+</div>
+
 <h3>📈stats.</h3>
 
 <div align="center">
     <a href="#">
         <img src="https://raw.githubusercontent.com/mgcodeur/mgcodeur/master/profile-3d-contrib/profile-night-rainbow.svg"/>
     </a>
-</div>
-
-<h3>🏆 Trophies.</h3>
-
-<div>
-    <img src="https://github-profile-trophy.vercel.app/?username=mgcodeur&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="Mgcodeur Github Trophies" width="100%"/>
 </div>
        
 <h3 align="center">💰 Donating ?.<h3>
