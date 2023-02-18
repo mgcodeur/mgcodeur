@@ -9,21 +9,21 @@
 
 <br/>
 
-<h3>🏆 GitHub Trophies.</h3>
+<h3>🔥 Skills.</h3>
+<img src="https://skillicons.dev/icons?i=js,html,css,php,laravel,vue,adonis,wordpress,webpack,vite,redis,symfony,apollo,figma,nodejs,express,mongo" alt="mgcodeur-skills"/>
+
+<br/>
+
+<h3>🏆 Trophies.</h3>
 
 <div>
     <img src="https://github-profile-trophy.vercel.app/?username=mgcodeur&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="Mgcodeur Github Trophies" width="100%"/>
 </div>
 
-<br/>
-
-<h3>🔥 Skills.</h3>
-<img src="https://skillicons.dev/icons?i=js,html,css,php,laravel,vue,adonis,wordpress,webpack,vite,redis,symfony,apollo,figma,nodejs,express,mongo" alt="mgcodeur-skills"/>
-
 
 <br/>
 
-<h3>📈 Github stats.</h3>
+<h3>📈stats.</h3>
 
 <div>
     <a href="#">
