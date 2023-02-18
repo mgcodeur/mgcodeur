@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/goma-cat.gif" height="60px"/>
+    <img src="assets/goma-cat.gif"/>
 </div>
 
 <h3 align="center">
