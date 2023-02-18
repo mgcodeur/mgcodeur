@@ -8,7 +8,7 @@
 <img src="https://raw.githubusercontent.com/mgcodeur/mgcodeur/output/github-contribution-grid-snake.gif" alt="mgcodeur contribution" width="100%"/>
 
 <h3>🔥 Skills.</h3>
-<img src="https://skillicons.dev/icons?i=js,html,css,php,laravel,vue,adonis,wordpress,webpack,vite,redis,symfony,apollo,figma,nodejs,express,mongo" alt="mgcodeur-skills"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,adonis,wordpress,webpack,vite,redis,symfony,apollo,figma,nodejs,express,mongo,bootstrap,git,gitlab,firebase,nuxt,postman,graphql,react,redux,next,mysql,sqlite,tailwind,postgres,stackoverflow,svelte,nginx,heroku,gatsby,flutter,docker,elixir,aws,pug,regex,xd,vercel,devto"/>
 
 <h3>🏆 Trophies.</h3>
 
