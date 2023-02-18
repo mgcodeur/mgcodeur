@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello+^^,+I%27m+Rapha;I%27m+a+Full+Stack+Developer;Nice+to+meet+you!&center=true&width=100%"/>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello+^^,+I%27m+Rapha;I%27m+a+Full+Stack+Developer;Nice+to+meet+you!&center=true"/>
 </h3>
 
 <img src="https://raw.githubusercontent.com/mgcodeur/mgcodeur/output/github-contribution-grid-snake.gif" alt="mgcodeur contribution" width="100%"/>
