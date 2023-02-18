@@ -25,7 +25,7 @@
     </a>
 </div>
        
-<h3 align="center">💰 Donating ?.<h3>
+<h3 align="center">💰 Donating ?<h3>
     
 <div align="center">
     <a href="https://buymeacoffee.com/mgcodeur">
