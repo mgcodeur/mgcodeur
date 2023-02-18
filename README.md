@@ -3,7 +3,9 @@
 </div>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello+^^,+I%27m+Rapha;I%27m+a+Full+Stack+Developer;Nice+to+meet+you!&center=true"/>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=D71232&center=true&vCenter=true&width=600&lines=Hello%F0%9F%91%8B%2C+I'm+Rapha;I'm+a+Fullstack+Developer%F0%9F%94%A5;Nice+To+Meet+You%F0%9F%98%8C%E2%9C%A8" alt="Typing SVG" />
+    </a>
 </h3>
 
 <img src="https://raw.githubusercontent.com/mgcodeur/mgcodeur/output/github-contribution-grid-snake.gif" alt="mgcodeur contribution" width="100%"/>
