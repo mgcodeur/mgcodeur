@@ -14,7 +14,7 @@
 <h3>🏆 Trophies.</h3>
 
 <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=mgcodeur&theme=discord&no-frame=false&no-bg=true&margin-w=4" alt="Mgcodeur Github Trophies" width="100%"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=mgcodeur&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="Mgcodeur Github Trophies" width="100%"/>
 </div>
 
 <h3>📈stats.</h3>
