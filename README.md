@@ -43,6 +43,17 @@
 <br/>
 
 <details open>
+    <summary><b>📈Activity Chart.</b></summary>
+    <div align="center">
+        <a href="#">
+            <img src="https://github-graph.herokuapp.com/graph?username=mgcodeur&hide_border=true&radius=15&theme=github-compact&line=020712&color=3572A5&point=3572A5"/>
+        </a>
+    </div>
+</details>
+
+<br/>
+
+<details open>
     <summary><b>📫 Contact.</b></summary>
     <div>
         <a href="https://twitter.com/mgcodeur">
