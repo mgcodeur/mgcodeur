@@ -73,7 +73,7 @@
         <a href="https://www.facebook.com/mgcodeur/">
             <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
         </a>
-        <a href="https://www.youtube.com/channel/UCY0YQZ0XZ5Z0Z0Z0">
+        <a href="#">
             <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
         </a>
         <a href="https://www.twitch.tv/mgcodeur">
@@ -124,16 +124,16 @@
         <a href="https://www.kaggle.com/mgcodeur">
             <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
         </a>
-        <a href="https://www.sololearn.com/Profile/13800001">
+        <a href="#">
             <img src="https://img.shields.io/badge/SoloLearn-3FADFF?style=for-the-badge&logo=sololearn&logoColor=white"/>
         </a>
-        <a href="https://www.coursera.org/user/8b3b4f1b4f4f4f4f4f4f4f4f4f4f4f4f">
+        <a href="#">
             <img src="https://img.shields.io/badge/Coursera-2A73CC?style=for-the-badge&logo=coursera&logoColor=white"/> 
         </a>
         <a href="https://www.udemy.com/user/mgcodeur/">
             <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white"/>
         </a>
-        <a href="https://www.udacity.com/user/13800001">
+        <a href="#">
             <img src="https://img.shields.io/badge/Udacity-00B0FF?style=for-the-badge&logo=udacity&logoColor=white"/>
         </a>
     </div>
@@ -143,7 +143,7 @@
 
 <div>
     <a href="https://buymeacoffee.com/mgcodeur">
-        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-crimson?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/>
+        <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=mgcodeur&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"/>
     </a>
 </div>
 
