@@ -10,23 +10,121 @@
 
 <img src="https://raw.githubusercontent.com/mgcodeur/mgcodeur/output/github-contribution-grid-snake.gif" alt="mgcodeur contribution" width="100%"/>
 
-<h3>🔥 Skills.</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,adonis,wordpress,webpack,vite,redis,symfony,apollo,figma,nodejs,express,mongo,bootstrap,git,gitlab,firebase,nuxt,postman,graphql,react,redux,next,mysql,sqlite,tailwind,postgres,stackoverflow,svelte,nginx,heroku,gatsby,flutter,docker,elixir,aws,pug,regex,xd,vercel,devto"/>
+<br/>
+<br/>
 
-<h3>🏆 Trophies.</h3>
+<details open>
+    <summary><b>🔥 Skills.</b></summary>
+    <div>
+        <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,adonis,wordpress,webpack,vite,redis,symfony,apollo,figma,nodejs,express,mongo,bootstrap,git,gitlab,firebase,nuxt,postman,graphql,react,redux,next,mysql,sqlite,tailwind,postgres,stackoverflow,svelte,nginx,heroku,gatsby,flutter,docker,elixir,aws,pug,regex,xd,vercel,devto"/>
+    </div>
+</details>
 
-<div>
-    <img src="https://github-profile-trophy.vercel.app/?username=mgcodeur&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="Mgcodeur Github Trophies" width="100%"/>
-</div>
-
-<h3>📈stats.</h3>
-
-<div align="center">
-    <a href="#">
-        <img src="https://raw.githubusercontent.com/mgcodeur/mgcodeur/master/profile-3d-contrib/profile-south-season-animate.svg"/>
-    </a>
-</div>
 <br>
+
+<details open>
+    <summary><b>🏆 Trophies.</b></summary>
+    <div>
+        <img src="https://github-profile-trophy.vercel.app/?username=mgcodeur&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="Mgcodeur Github Trophies" width="100%"/>
+    </div>
+</details>
+
+<br/>
+
+<details open>
+    <summary><b>📈stats.</b></summary>
+    <div align="center">
+        <a href="#">
+            <img src="https://raw.githubusercontent.com/mgcodeur/mgcodeur/master/profile-3d-contrib/profile-south-season-animate.svg"/>
+        </a>
+    </div>
+</details>
+
+<br/>
+
+<details open>
+    <summary><b>📫 Contact.</b></summary>
+    <div>
+        <a href="https://twitter.com/mgcodeur">
+            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+        </a>
+        <a href="https://www.linkedin.com/in/mgcodeur/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+        <a href="https://www.instagram.com/mgcodeur/">
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+        </a>
+        <a href="https://www.facebook.com/mgcodeur/">
+            <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+        </a>
+        <a href="https://www.youtube.com/channel/UCY0YQZ0XZ5Z0Z0Z0">
+            <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+        </a>
+        <a href="https://www.twitch.tv/mgcodeur">
+            <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+        </a>
+        <a href="https://www.reddit.com/user/mgcodeur">
+            <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+        </a>
+        <a href="https://www.pinterest.com/mgcodeur/">
+            <img src="https://img.shields.io/badge/Pinterest-FF0000?style=for-the-badge&logo=pinterest&logoColor=white"/>
+        </a>
+        <a href="https://www.dev.to/mgcodeur">
+            <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+        </a>
+        <a href="https://www.codepen.io/mgcodeur">
+            <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
+        </a> 
+        <a href="https://www.behance.net/mgcodeur">
+            <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>   
+        </a>
+        <a href="https://www.medium.com/@mgcodeur">
+            <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/> 
+        </a>
+        <a href="https://www.quora.com/profile/Mgcodeur">
+            <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white"/>
+        </a>
+        <a href="https://www.stackoverflow.com/users/13800001/mgcodeur">
+            <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+        </a>
+        <a href="https://www.producthunt.com/@mgcodeur">
+            <img src="https://img.shields.io/badge/ProductHunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white"/>
+        </a>
+        <a href="https://www.hackerrank.com/mgcodeur">
+            <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+        </a>
+        <a href="https://www.codewars.com/users/mgcodeur">
+            <img src="https://img.shields.io/badge/CodeWars-000000?style=for-the-badge&logo=codewars&logoColor=white"/>
+        </a>
+        <a href="https://www.codechef.com/users/mgcodeur">
+            <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+        </a>
+        <a href="https://www.freecodecamp.org/mgcodeur">
+            <img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
+        </a>
+        <a href="https://www.codecademy.com/profiles/mgcodeur">
+            <img src="https://img.shields.io/badge/Codecademy-1F4056?style=for-the-badge&logo=codecademy&logoColor=white"/>
+        </a>
+        <a href="https://www.kaggle.com/mgcodeur">
+            <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+        </a>
+        <a href="https://www.sololearn.com/Profile/13800001">
+            <img src="https://img.shields.io/badge/SoloLearn-3FADFF?style=for-the-badge&logo=sololearn&logoColor=white"/>
+        </a>
+        <a href="https://www.coursera.org/user/8b3b4f1b4f4f4f4f4f4f4f4f4f4f4f4f">
+            <img src="https://img.shields.io/badge/Coursera-2A73CC?style=for-the-badge&logo=coursera&logoColor=white"/> 
+        </a>
+        <a href="https://www.udemy.com/user/mgcodeur/">
+            <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white"/>
+        </a>
+        <a href="https://www.udacity.com/user/13800001">
+            <img src="https://img.shields.io/badge/Udacity-00B0FF?style=for-the-badge&logo=udacity&logoColor=white"/>
+        </a>
+    </div>
+</details>
+
+<br>
+
 <div>
     <a href="https://buymeacoffee.com/mgcodeur">
         <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-crimson?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/>
