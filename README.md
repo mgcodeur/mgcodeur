@@ -15,6 +15,7 @@
 
 <details open>
     <summary><b>🔥 Skills.</b></summary>
+    <br/>
     <div>
         <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,adonis,wordpress,webpack,vite,redis,symfony,apollo,figma,nodejs,express,mongo,bootstrap,git,gitlab,firebase,nuxt,postman,graphql,react,redux,next,mysql,sqlite,tailwind,postgres,stackoverflow,svelte,nginx,heroku,gatsby,flutter,docker,elixir,aws,pug,regex,xd,vercel,devto"/>
     </div>
@@ -24,6 +25,7 @@
 
 <details open>
     <summary><b>🏆 Trophies.</b></summary>
+    <br/>
     <div>
         <img src="https://github-profile-trophy.vercel.app/?username=mgcodeur&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="Mgcodeur Github Trophies" width="100%"/>
     </div>
@@ -33,6 +35,7 @@
 
 <details open>
     <summary><b>📈stats.</b></summary>
+    <br/>
     <div align="center">
         <a href="#">
             <img src="https://raw.githubusercontent.com/mgcodeur/mgcodeur/master/profile-3d-contrib/profile-south-season-animate.svg"/>
@@ -44,6 +47,7 @@
 
 <details open>
     <summary><b>📈Activity Chart.</b></summary>
+    <br/>
     <div align="center">
         <a href="#">
             <img src="https://github-graph.herokuapp.com/graph?username=mgcodeur&hide_border=true&radius=15&theme=github-compact&line=020712&color=3572A5&point=3572A5"/>
@@ -55,6 +59,7 @@
 
 <details open>
     <summary><b>📫 Contact.</b></summary>
+    <br/>
     <div>
         <a href="https://twitter.com/mgcodeur">
             <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
