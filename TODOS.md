@@ -1,0 +1,26 @@
+#### À Faire (Modification liens réseaux sociaux sections contact)
+- <strike>lien twitter<strike>
+- <strike>lien linkedin<strike>
+- Lien instagram
+- <strike>lien facebook<strike>
+- <strike>lien youtube<strike>
+- Lien twitch
+- Lien reddit
+- Lien pinterest
+- Lien dev.to
+- Lien codepen
+- Lien behance
+- Lien medium
+- Lien quora
+- Lien stackoverflow
+- Lien producthunt
+- Lien hackerrank
+- Lien codewars
+- Lien codechef
+- Lien freecodecamp
+- Lien codecademy
+- lien kaggle
+- Lien sololearn
+- Lien coursera
+- Lien udemy
+- Lien udacity
