@@ -50,7 +50,7 @@
     <br/>
     <div align="center">
         <a href="#">
-            <img src="https://github-graph.herokuapp.com/graph?username=mgcodeur&hide_border=true&radius=15&theme=github-compact&line=FF5F5F&color=FF5F5F&point=3572A5"/>
+            <img src="https://github-graph.herokuapp.com/graph?username=mgcodeur&hide_border=true&radius=15&theme=github-compact&line=FF5F5F&color=3572A5&point=3572A5"/>
         </a>
     </div>
 </details>
