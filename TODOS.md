@@ -4,9 +4,9 @@
 - <strike>lien instagram</strike>
 - <strike>lien facebook</strike>
 - <strike>lien youtube</strike>
-- Lien twitch
-- Lien reddit
-- Lien pinterest
+- <strike>lien twitch</strike>
+- <strike>lien reddit</strike>
+- <strike>lien pinterest</strike>
 - Lien dev.to
 - Lien codepen
 - Lien behance

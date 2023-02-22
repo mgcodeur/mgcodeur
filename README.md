@@ -82,7 +82,7 @@
         <a href="https://www.reddit.com/user/mgcodeur">
             <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
         </a>
-        <a href="https://www.pinterest.com/mgcodeur/">
+        <a href="https://www.pinterest.com/mgcodeur">
             <img src="https://img.shields.io/badge/Pinterest-FF0000?style=for-the-badge&logo=pinterest&logoColor=white"/>
         </a>
         <a href="https://www.dev.to/mgcodeur">
