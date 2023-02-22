@@ -1,7 +1,7 @@
 #### À Faire (Modification liens réseaux sociaux sections contact)
 - <strike>lien twitter</strike>
 - <strike>lien linkedin</strike>
-- Lien instagram
+- <strike>lien instagram</strike>
 - <strike>lien facebook</strike>
 - <strike>lien youtube</strike>
 - Lien twitch
