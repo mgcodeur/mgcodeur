@@ -3,9 +3,13 @@
 </div>
 
 <h3 align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=D71232&center=true&vCenter=true&width=600&lines=Hello%F0%9F%91%8B%2C+I'm+Rapha;I'm+a+Fullstack+Developer%F0%9F%94%A5;Nice+To+Meet+You%F0%9F%98%8C%E2%9C%A8" alt="Typing SVG" />
-    </a>
+    <img src="assets/borderseparator.gif"/>
+    <div>
+        <img src="assets/animated-flame-01.gif" height="32" align="left" width="1.75%"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=D71232&center=true&vCenter=true&width=600&lines=Hello%F0%9F%91%8B%2C+I'm+Rapha;I'm+a+Fullstack+Developer%F0%9F%94%A5;Nice+To+Meet+You%F0%9F%98%8C%E2%9C%A8" alt="Typing SVG" align="center" width="90%"/>
+        <img src="assets/animated-flame-01.gif" height="32" align="right" width="1.75%"/>
+    <div/>
+    <img src="assets/borderseparator.gif"/>
 </h3>
 
 <img src="https://raw.githubusercontent.com/mgcodeur/mgcodeur/output/github-contribution-grid-snake.gif" alt="mgcodeur contribution" width="100%"/>
@@ -14,7 +18,12 @@
 <br/>
 
 <details open>
-    <summary><b>🔥 Skills.</b></summary>
+    <summary align="left">
+        <b align="center">🔥 Skills.</b>
+        <img src="assets/animated-flame-01.gif" height="25" align="right"/>
+    </summary>
+    <img src="assets/borderseparator.gif"/>
+    <br/>
     <br/>
     <div>
         <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,adonis,wordpress,webpack,vite,redis,symfony,apollo,figma,nodejs,express,mongo,bootstrap,git,gitlab,firebase,nuxt,postman,graphql,react,redux,next,mysql,sqlite,tailwind,postgres,stackoverflow,svelte,nginx,heroku,gatsby,flutter,docker,elixir,aws,pug,regex,xd,vercel,devto"/>
@@ -24,7 +33,12 @@
 <br>
 
 <details open>
-    <summary><b>🏆 Trophies.</b></summary>
+    <summary>
+        <b>🏆 Trophies.</b>
+        <img src="assets/animated-flame-01.gif" height="25" align="right"/>
+    </summary>
+    <img src="assets/borderseparator.gif"/>
+    <br/>
     <br/>
     <div>
         <img src="https://github-profile-trophy.vercel.app/?username=mgcodeur&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="Mgcodeur Github Trophies" width="100%"/>
@@ -34,7 +48,12 @@
 <br/>
 
 <details open>
-    <summary><b>📈stats.</b></summary>
+    <summary>
+        <b>📈stats.</b>
+        <img src="assets/animated-flame-01.gif" height="25" align="right"/>
+    </summary>
+    <img src="assets/borderseparator.gif"/>
+    <br/>
     <br/>
     <div align="center">
         <a href="#">
@@ -46,7 +65,12 @@
 <br/>
 
 <details open>
-    <summary><b>📈Activity Chart.</b></summary>
+    <summary>
+        <b>📈Activity Chart.</b>
+        <img src="assets/animated-flame-01.gif" height="25" align="right"/>
+    </summary>
+    <img src="assets/borderseparator.gif"/>
+    <br/>
     <br/>
     <div align="center">
         <a href="#">
@@ -58,7 +82,12 @@
 <br/>
 
 <details open>
-    <summary><b>📫 Contact.</b></summary>
+    <summary>
+        <b>📫 Contact.</b>
+        <img src="assets/animated-flame-01.gif" height="25" align="right"/>
+    </summary>
+    <img src="assets/borderseparator.gif"/>
+    <br/>
     <br/>
     <div>
         <a href="https://twitter.com/mgcodeur">
