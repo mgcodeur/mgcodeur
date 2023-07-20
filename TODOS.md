@@ -7,7 +7,7 @@
 - <strike>lien twitch</strike>
 - <strike>lien reddit</strike>
 - <strike>lien pinterest</strike>
-- Lien dev.to
+- <strike>lien dev.to</strike>
 - Lien codepen
 - Lien behance
 - Lien medium
