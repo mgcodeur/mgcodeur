@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/bg.jpg" height="auto" width="100%"/>
+    <img src="assets/hi-anime.gif"/>
 </div>
 
 <h3 align="center">
