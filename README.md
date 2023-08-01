@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/capoo-cat.gif/>
+    <img src="assets/capoo-cat.gif"/>
 </div>
 
 <h3 align="center">
