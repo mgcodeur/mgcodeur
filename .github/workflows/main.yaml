@@ -26,8 +26,7 @@ jobs:
       - uses: actions/checkout@v2
 
     # Generates the snake  
-      - uses: Platane/snk@master
-        id: snake-gif
+      - uses: Platane/snk@v3
         with:
           github_user_name: mgcodeur
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
