@@ -63,7 +63,12 @@
     <br/>
     <div align="center">
         <a href="#">
-            <img src="https://raw.githubusercontent.com/mgcodeur/mgcodeur/master/profile-3d-contrib/profile-south-season-animate.svg"/>
+            <!-- <img src="https://raw.githubusercontent.com/mgcodeur/mgcodeur/master/profile-3d-contrib/profile-south-season-animate.svg"/> -->
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mgcodeur/mgcodeur/blob/master/profile-3d-contrib/profile-night-rainbow.svg" />
+                <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mgcodeur/mgcodeur/master/profile-3d-contrib/profile-south-season-animate.svg" />
+                <img alt="mgcodeur-github-stat" src="https://raw.githubusercontent.com/mgcodeur/mgcodeur/master/profile-3d-contrib/profile-south-season-animate.svg" width="100%"/>
+            </picture>
         </a>
     </div>
 </details>
