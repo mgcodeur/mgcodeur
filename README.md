@@ -139,7 +139,7 @@
         <a href="https://www.quora.com/profile/Mgcodeur">
             <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white"/>
         </a>
-        <a href="https://www.stackoverflow.com/users/13800001/mgcodeur">
+        <a href="https://stackoverflow.com/users/17922926/mgcodeur">
             <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
         </a>
         <a href="https://www.producthunt.com/@mgcodeur">

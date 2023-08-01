@@ -12,7 +12,7 @@
 - Lien behance
 - Lien medium
 - Lien quora
-- Lien stackoverflow
+- <strike>lien stackoverflow</strike>
 - Lien producthunt
 - Lien hackerrank
 - Lien codewars
