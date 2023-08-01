@@ -1,9 +1,8 @@
 <div align="center">
-    <img src="assets/capoo-cat.gif"/>
+    <img src="assets/capoo-cat.gif" height="100px"/>
 </div>
 
 <h3 align="center">
-    <img src="assets/borderseparator.gif"/>
     <div>
         <img src="assets/animated-flame-01.gif" height="50" align="left" width="1.75%"/>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=D71232&center=true&vCenter=true&width=600&lines=Hello%F0%9F%91%8B%2C+I'm+Rapha;I'm+a+Fullstack+Developer%F0%9F%94%A5;Nice+To+Meet+You%F0%9F%98%8C%E2%9C%A8" alt="Typing SVG" align="center" width="90%"/>
