@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="assets/capoo-cat.gif" height="100px"/>
-</div>
-
 <h3 align="center">
     <div>
         <img src="assets/animated-flame-01.gif" height="50" align="left" width="1.75%"/>
