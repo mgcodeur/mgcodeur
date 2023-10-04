@@ -21,4 +21,4 @@ jobs:
           git config user.email github-actions@github.com
           git add -A .
           git commit -m "regenerate 3D contribution"
-          git push
+          git push -f
