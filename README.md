@@ -27,7 +27,7 @@
     <br/>
     <br/>
     <div>
-        <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,adonis,wordpress,webpack,vite,redis,symfony,apollo,figma,nodejs,express,mongo,bootstrap,git,gitlab,firebase,nuxt,postman,graphql,react,redux,next,mysql,sqlite,tailwind,postgres,stackoverflow,svelte,nginx,heroku,gatsby,flutter,docker,elixir,aws,pug,regex,xd,vercel,devto"/>
+        <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,adonis,wordpress,webpack,vite,redis,symfony,apollo,figma,nodejs,express,mongo,bootstrap,git,gitlab,firebase,nuxt,postman,graphql,react,redux,next,mysql,sqlite,tailwind,postgres,stackoverflow,svelte,nginx,heroku,gatsby,flutter,docker,elixir,aws,pug,regex,xd,vercel,devto,gulp,svelte,jenkins,github,azure,babel,codepen,electron,ember,webflow,go,jest,ruby,nestjs,kubernetes"/>
     </div>
 </details>
 
@@ -122,7 +122,7 @@
         <a href="https://www.dev.to/mgcodeur">
             <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
         </a>
-        <a href="https://www.codepen.io/mgcodeur">
+        <a href="https://codepen.io/mgcodeur-the-scripter">
             <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
         </a> 
         <a href="https://www.behance.net/mgcodeur">
@@ -137,7 +137,7 @@
         <a href="https://stackoverflow.com/users/17922926/mgcodeur">
             <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
         </a>
-        <a href="https://www.producthunt.com/@mgcodeur">
+        <a href="https://www.producthunt.com/@mg_codeur">
             <img src="https://img.shields.io/badge/ProductHunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white"/>
         </a>
         <a href="https://www.hackerrank.com/mgcodeur">
