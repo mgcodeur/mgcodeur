@@ -86,23 +86,6 @@
 
 <details open>
     <summary>
-        <b>📈Activity Chart.</b>
-        <img src="assets/animated-flame-01.gif" width="1.75%" align="right"/>
-    </summary>
-    <img src="assets/borderseparator.gif"/>
-    <br/>
-    <br/>
-    <div align="center">
-        <a href="#">
-            <img src="https://github-graph.herokuapp.com/graph?username=mgcodeur&hide_border=true&radius=15&theme=github-compact&line=FF5F5F&color=3572A5&point=3572A5"/>
-        </a>
-    </div>
-</details>
-
-<br/>
-
-<details open>
-    <summary>
         <b>📫 Contact.</b>
         <img src="assets/animated-flame-01.gif" width="1.75%" align="right"/>
     </summary>
