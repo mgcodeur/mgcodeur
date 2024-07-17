@@ -50,6 +50,21 @@
 
 <details open>
     <summary>
+        <b>🕸🧑‍💻 Daily dev</b>
+        <img src="assets/animated-flame-01.gif" width="1.75%" align="right"/>
+    </summary>
+    <img src="assets/borderseparator.gif"/>
+    <br/>
+    <br/>
+    <div>
+        <a href="https://app.daily.dev/mgcodeur"><img src="https://api.daily.dev/devcards/v2/Nw83gNwqha8vzyDG6Z63r.png?r=7d4&type=default" width="356" alt="Mg Codeur's Dev Card"/></a>
+    </div>
+</details>
+
+<br/>
+
+<details open>
+    <summary>
         <b>📈stats.</b>
         <img src="assets/animated-flame-01.gif" width="1.75%" align="right"/>
     </summary>
