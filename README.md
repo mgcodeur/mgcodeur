@@ -27,7 +27,7 @@
     <br/>
     <br/>
     <div>
-        <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,adonis,wordpress,webpack,vite,redis,symfony,apollo,figma,nodejs,express,mongo,bootstrap,git,gitlab,firebase,nuxt,postman,graphql,react,redux,next,mysql,sqlite,tailwind,postgres,stackoverflow,svelte,nginx,heroku,gatsby,flutter,docker,elixir,aws,pug,regex,xd,vercel,devto,gulp,svelte,jenkins,github,azure,babel,codepen,electron,ember,webflow,go,jest,ruby,nestjs,kubernetes"/>
+        <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,adonis,wordpress,webpack,vite,redis,symfony,apollo,figma,nodejs,express,mongo,bootstrap,git,gitlab,firebase,nuxt,postman,graphql,react,redux,next,mysql,sqlite,tailwind,postgres,stackoverflow,svelte,nginx,heroku,gatsby,flutter,docker,elixir,aws,pug,regex,xd,vercel,gulp,jenkins,github,azure,babel,codepen,electron,ember,webflow,go,jest,ruby,nestjs,kubernetes,ansible,kafka,rabbitmq,bitbucket,rust,typescript,threejs,solidjs,remix,lit,deno,vitest,rollup,markdown,tauri,githubactions,cypress"/>
     </div>
 </details>
 
