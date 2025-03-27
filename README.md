@@ -60,15 +60,3 @@
         <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1407112405i/22668729.jpg"/>
     </div>
 </details>
-
-<br>
-
-<div>
-    <a href="https://buymeacoffee.com/mgcodeur">
-        <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=mgcodeur&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"/>
-    </a>
-</div>
-
-<div>
-    <img src="https://visitcount.itsvg.in/api?id=mgcodeur&icon=0&color=1"/>
-</div>
