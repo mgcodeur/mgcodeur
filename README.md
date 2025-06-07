@@ -31,6 +31,7 @@
     </div>
 </details>
 
+<!--
 <br>
 
 <details open>
@@ -46,6 +47,7 @@
     </div>
 </details>
 
+
 <br/>
 
 <details open>
@@ -60,3 +62,4 @@
         <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1407112405i/22668729.jpg" height="300px" />
     </div>
 </details>
+-->
