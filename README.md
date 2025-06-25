@@ -6,9 +6,9 @@
     <div/>
     <!-- <img src="assets/borderseparator.gif"/> -->
 </h3>
-
+<!--
 [![GitHub stats](https://github-readme-stats-git-master-mgcodeurs-projects.vercel.app/api?username=mgcodeur&show_icons=true&theme=radical)](https://github.com/mgcodeur)
-
+-->
 
 <!-- <br/>
 
